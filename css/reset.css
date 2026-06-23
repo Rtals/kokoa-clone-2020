@@ -1,0 +1,42 @@
+/* 1. 기본 레이아웃 계산을 직관적으로 변경 */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+/* 2. 기본 여백 제거 (모든 요소) */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* 3. 폰트 렌더링 최적화 및 줄 간격 설정 */
+body {
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* 4. 미디어 요소를 반응형으로 만들고, 하단 여백 제거 */
+img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;
+}
+
+/* 5. 폼 요소가 기본 폰트를 상속받도록 설정 */
+input, button, textarea, select {
+  font: inherit;
+}
+
+/* 6. 텍스트가 컨테이너를 벗어나지 않도록 설정 */
+p, h1, h2, h3, h4, h5, h6 {
+  overflow-wrap: break-word;
+}
+
+/* 7. 목록 스타일 제거 (필요에 따라 적용) */
+ol, ul {
+  list-style: none;
+}
+
+/* (추가) input 클릭 시 기본 스타일 제거 */
+input:focus {
+  outline: none;
+}
