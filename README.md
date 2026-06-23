@@ -2,3 +2,13 @@
 
 This repository is KakaoTalk clone 2020 version.
 Studied in 2026.
+
+## ToDo
+- [x] Sign up screen part
+- [ ] Nevigation bar part
+- [ ] Friends screen part
+- [ ] Chats screen part
+- [ ] Find screen part
+- [ ] More screen part
+- [ ] Settings screen part
+- [ ] Animations
