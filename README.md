@@ -1,6 +1,6 @@
 # Kokoa Clone 2020 (2026 study)
 
-This repository is KakaoTalk clone 2020 version.
+This repository is KakaoTalk clone 2020 version. (with only HTML/CSS) 
 Studied in 2026.
 
 ## ToDo
