@@ -6,7 +6,7 @@ Studied in 2026.
 ## ToDo
 - [x] Sign up screen part
 - [x] Nevigation bar part
-- [ ] Friends screen part
+- [x] Friends screen part
 - [ ] Chats screen part
 - [ ] Find screen part
 - [ ] More screen part
