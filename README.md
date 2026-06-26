@@ -7,7 +7,7 @@ Studied in 2026.
 - [x] Sign up screen part
 - [x] Nevigation bar part
 - [x] Friends screen part
-- [ ] Chats screen part
+- [X] Chats screen part
 - [ ] Find screen part
 - [ ] More screen part
 - [ ] Settings screen part
