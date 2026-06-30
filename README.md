@@ -8,7 +8,7 @@ Studied in 2026.
 - [x] Nevigation bar part
 - [x] Friends screen part
 - [X] Chats screen part
-- [ ] Find screen part
+- [X] Find screen part
 - [ ] More screen part
 - [ ] Settings screen part
 - [ ] Animations
