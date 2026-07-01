@@ -10,5 +10,6 @@ Studied in 2026.
 - [X] Chats screen part
 - [X] Find screen part
 - [X] More screen part
-- [ ] Settings screen part
+- [X] Settings screen part
+- [ ] Chat screen part
 - [ ] Animations
